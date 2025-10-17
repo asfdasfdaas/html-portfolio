@@ -1,0 +1,29 @@
+img{
+    width: 272px;
+    height: 92px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+input{
+    padding: 1px 87px 1px 52px;
+    width: 422px;
+    height: 46px;
+    display: block;
+    line-height : 16px;
+    border-radius: 24px;
+    border: 1px solid #d0d1d3;
+    margin: 24px auto;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+}
+button{
+    margin: 24px 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    border-radius: 4px;
+    border: none;
+}
